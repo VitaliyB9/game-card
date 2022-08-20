@@ -1,0 +1,15 @@
+.cards {
+  box-sizing: border-box;
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 15px;
+  padding: 20px;
+  width: 5vw;
+  height: 10vh;
+  background-color: rgba(128, 117, 117, 0.4);
+}
+
+.cards front {
+  background-color: rgba(235, 227, 227);
+}

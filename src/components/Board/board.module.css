@@ -1,0 +1,11 @@
+.board {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 50vw;
+  height: 60hv;
+  gap: 4px;
+  justify-items: center;
+  font-size: 20px;
+  border: 3px solid rgb(27, 155, 27);
+  border-radius: 10px;
+}
